@@ -1,4 +1,4 @@
-# Bikesharink
+# Bikesharing
 
 ## Project Overview:
 
